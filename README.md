@@ -40,7 +40,6 @@ My name is Mohamed Sabkhi and I'm a Data Science Student. I'm from Tunisia , liv
 <a href="https://github.com/MedSabkhi21/Sabkhi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedSabkhi21&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-## ⚒️ Some of my work <br>
 
 <a href="https://github.com/Medsabkhi21/tayara_cars_price_prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MedSabkhi21&repo=tayara_cars_price_prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -62,6 +61,8 @@ My name is Mohamed Sabkhi and I'm a Data Science Student. I'm from Tunisia , liv
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MedSabkhi21/Sabkhi/master/linkedin-3-16.png (LinkedIn icon without padding)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MedSabkhi21.MedSabkhi21)
+<img src="https://activity-graph.herokuapp.com/graph?username=MedSabkhi21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!-- links to your social media accounts -->
 
