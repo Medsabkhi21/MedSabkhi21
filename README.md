@@ -48,21 +48,16 @@ My name is Mohamed Sabkhi and I'm a Data Science Student. I'm from Tunisia , liv
 <a href="https://github.com/Tunisian-GitHub-Community/BeginnersGuide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tunisian-GitHub-Community&repo=BeginnersGuide&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-<!-- links to social media icons -->
+<img src="https://activity-graph.herokuapp.com/graph?username=MedSabkhi21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=medsabkhi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-<!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MedSabkhi21/Sabkhi/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MedSabkhi21.MedSabkhi21)
-<img src="https://activity-graph.herokuapp.com/graph?username=MedSabkhi21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!-- links to your social media accounts -->
 
