@@ -8,7 +8,7 @@
 </h1>
 
 <h5 align="center">
-# Hello, folks! <img src="https://raw.githubusercontent.com/MedSabkhi21/sabkhi/master/wave.gif" width="30px">
+<h1 Hi there! <img src="https://raw.githubusercontent.com/MedSabkhi21/sabkhi/master/wave.gif" width="30px"> </h1>
 
 My name is Mohamed Sabkhi and I'm a Data Science Student. I'm from Tunisia , living in Sfax and currently working at @Ettasahil. I'm passionate about machine learning and mathematics
 
