@@ -29,7 +29,7 @@ My name is Mohamed Sabkhi and I'm a Data Science Student. I'm from Tunisia , liv
 
 
 <a href="https://github.com/Tunisian-GitHub-Community/BeginnersGuide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MedSabkhi21&repo=BeginnersGuide&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tunisian-GitHub-Community&repo=BeginnersGuide&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
