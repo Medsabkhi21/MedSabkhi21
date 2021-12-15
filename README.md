@@ -41,7 +41,6 @@ My name is Mohamed Sabkhi and I'm a Data Science Student. I'm from Tunisia , liv
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
 
     <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -62,15 +61,6 @@ My name is Mohamed Sabkhi and I'm a Data Science Student. I'm from Tunisia , liv
 </p>
 
 <hr>
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/MedSabkhi21/Sabkhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MedSabkhi21&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sabkhi's GitHub Stats" />
-</a>
-<a href="https://github.com/MedSabkhi21/Sabkhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedSabkhi21&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
 
 <a href="https://github.com/Medsabkhi21/tayara_cars_price_prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MedSabkhi21&repo=tayara_cars_price_prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
