@@ -5,13 +5,18 @@
 My name is Mohamed Sabkhi and I'm a Data Science Student. I'm from Tunisia , living in Sfax and currently working at @Ettasahil. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
+- 🔭 I’m currently Studying At ENETCOM
+- 💬 Leader of Google Developers Student Clubs ENETCOM 
+- 👨‍🏫 Python instructor at GOMYCODE
+- 🐱‍👤 Github Tunisian Community Co-organizer
+- 📫 How to reach me: medsabkhi@gmail.com
+## My Absolute Favorites:
+- 💻   I love exploring new tech stack and building cool stuffs.
+- 📰   Reading & writing tech blogs whenever possible.
+- 🍕   Hackathons, meetups & tech events.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a)
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -35,21 +40,22 @@ My name is Mohamed Sabkhi and I'm a Data Science Student. I'm from Tunisia , liv
 <a href="https://github.com/MedSabkhi21/Sabkhi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedSabkhi21&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+## ⚒️ Some of my work
 <a href="https://github.com/Medsabkhi21/tayara_cars_price_prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MedSabkhi21&repo=tayara_cars_price_prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
 <a href="https://github.com/Tunisian-GitHub-Community/BeginnersGuide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tunisian-GitHub-Community&repo=BeginnersGuide&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+#🎸 My Music Taste
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=medsabkhi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <!-- icons without padding -->
 
