@@ -12,7 +12,7 @@ My name is Mohamed Sabkhi and I'm a Data Science Student. I'm from Tunisia , liv
 
 ## What am I up to?
 
-- 🔭 I’m currently Studying At ENETCOM
+- 🔭 I’m currently Studying Applied Mathematics and IT At ENETCOM
 - 💬 Leader of Google Developers Student Clubs ENETCOM 
 - 👨‍🏫 Python instructor at GOMYCODE
 - 🐱‍👤 Github Tunisian Community Co-organizer
