@@ -12,7 +12,7 @@ My name is Mohamed Sabkhi and I'm an applied maths and information technology St
 
 ## What am I up to?
 
-- 🔭 I’m currently Studying Applied Mathematics and IT At ENETCOM
+- 🔭 I’m currently learning Pytorch for computervision, data analytics using R and ReactJs for fun !
 - 💬 Leader of Google Developers Student Clubs ENETCOM 
 - 👨‍🏫 Python instructor at GOMYCODE
 - 👤 Github Tunisian Community Co-organizer
