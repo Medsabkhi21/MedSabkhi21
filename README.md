@@ -15,12 +15,12 @@ My name is Mohamed Sabkhi and I'm a Data Science Student. I'm from Tunisia , liv
 - 🔭 I’m currently Studying Applied Mathematics and IT At ENETCOM
 - 💬 Leader of Google Developers Student Clubs ENETCOM 
 - 👨‍🏫 Python instructor at GOMYCODE
-- 🐱‍👤 Github Tunisian Community Co-organizer
+- 👤 Github Tunisian Community Co-organizer
 - 📫 How to reach me: medsabkhi@gmail.com
 ## My Absolute Favorites:
-- 💻   I love exploring new tech stack and building cool stuffs.
-- 📰   Reading & writing tech blogs whenever possible.
-- 🍕   Hackathons, meetups & tech events.
+- 💻   I love exploring new tech building technology that help people.
+- 📰   Reading research papers & writing tech blogs whenever possible.
+- 🍕   Hackathons & tech events.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
