@@ -12,13 +12,13 @@ My name is Mohamed Sabkhi and I'm an Applied Maths and Software Engineering Stud
 
 ## What am I up to?
 
-- 🔭 I’m currently learning Pytorch for computervision, data analytics using R, and ReactJs on the side for fun !
-- 💬 Leader of Google Developers Student Clubs ENETCOM 
+- 🔭 I’m currently discovering Data Engineering!
+- 💬 Ex-Leader of Google Developers Student Clubs ENETCOM 
 - 👨‍🏫 Python instructor at GOMYCODE
 - 👤 Github Tunisian Community Co-organizer
 - 📫 How to reach me: medsabkhi@gmail.com
 ## My Absolute Favorites:
-- 💻   I love exploring new tech building technology that help people.
+- 💻   I love tech gadgets.
 - 📰   Reading research papers & writing tech blogs whenever possible.
 - 🍕   Hackathons & tech events.
 
