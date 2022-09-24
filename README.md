@@ -14,6 +14,7 @@ I'm passionate about machine learning.
 ## What am I up to?
 
 - 🔭 I’m currently discovering Data Engineering!
+- 🏫  Alumnus at SUSI scholarship with Washington University, Seattle
 - 💬 Ex-Leader of Google Developers Student Clubs ENETCOM 
 - 👨‍🏫 Python instructor at GOMYCODE
 - 👤 Github Tunisian Community Co-organizer
