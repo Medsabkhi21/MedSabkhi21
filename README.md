@@ -8,17 +8,17 @@
 </h1>
 
 <h5 align="center">
-My name is Mohamed Sabkhi and I'm an Applied Maths and Software Engineering Student. I'm from Tunisia , living in Sfax-Mahdia.
+My name is Mohamed Sabkhi and I'm a Data science Student. I'm from Tunisia , living in Germany.
 I'm passionate about machine learning.
 
-## What am I up to?
 
-- 🔭 I’m currently discovering Data Engineering!
-- 🏫  Alumnus at SUSI scholarship with Washington University, Seattle
+
+- 🔭 I’m currently working as a data science intern with Adidas Germany!
+- 🏫  Alumnus at SUSI scholarship with Washington University, Seattle, USA.
 - 💬 Ex-Leader of Google Developers Student Clubs ENETCOM 
 - 👨‍🏫 Python instructor at GOMYCODE
 - 👤 Github Tunisian Community Co-organizer
-- 📫 How to reach me: medsabkhi@gmail.com
+- 📫 How to reach me: medsabkhi@gmail.com | mohamed.sabkhi@adidas.com
 ## My Absolute Favorites:
 - 💻   I love tech gadgets.
 - 📰   Reading research papers & writing tech blogs whenever possible.
