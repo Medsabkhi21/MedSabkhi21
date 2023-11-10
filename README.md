@@ -8,7 +8,7 @@
 </h1>
 
 <h5 align="center">
-My name is Mohamed Sabkhi and I'm a Data science Student. I'm from Tunisia , living in Germany.
+My name is Mohamed Sabkhi  I'm a Data scientist-Data Engineer. I'm from Tunisia , living in Germany.
 I'm passionate about machine learning.
 
 
