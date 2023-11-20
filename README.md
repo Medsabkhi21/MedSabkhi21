@@ -1,18 +1,16 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MedSabkhi21.MedSabkhi21">
 <h1 style="display: flex; align-items: center; justify-content: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+ am +Mohamed+ Sabkhi...;Nice+to+meet+you!&center=true&size=30"/>
-  </a>
+  <h1 align="center">Hello there!👋, Welcome to my Github Profile! </h1>
 </h1>
 
 <h5 align="center">
-My name is Mohamed Sabkhi  I'm a Data scientist-Data Engineer. I'm from Tunisia , living in Germany.
+My name is Mohamed Sabkhi  I'm a Data scientist / Data Engineer from Tunisia. 
 I'm passionate about machine learning.
 
 
 
-- 🔭 I’m currently working as a data science intern with Adidas Germany!
+- 🔭 I worked as a data science intern with Adidas Germany, fast growing startup: Cognira and research center: CRNS.
 - 🏫  Alumnus at SUSI scholarship with Washington University, Seattle, USA.
 - 💬 Ex-Leader of Google Developers Student Clubs ENETCOM 
 - 👨‍🏫 Python instructor at GOMYCODE
